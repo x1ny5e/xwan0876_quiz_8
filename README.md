@@ -24,5 +24,8 @@ I discovered some things worth learning from the above works:
 ## Part2:Coding Technique Exploration
 
 ### 1.1 Code Example
-
+![code 1](readmeImages/code1.png)
+![code 2](readmeImages/code2.png)
+![code 3](readmeImages/code3.png)
+![code 4](readmeImages/code4.png)
 ### 1.2 Insights
