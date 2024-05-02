@@ -1,7 +1,8 @@
 # xwan0876_quiz_8
 
-## Part1:Imaging Technique Inspiration
+## Part1: Imaging Technique Inspiration
 
+### 1.1 Introduction of the Design 
 This design work generates a series of randomly growing trees and leaves on the canvas by clicking the mouse. Finally, the trees and leaves are painted onto the image, and the complete portrait can be seen.
 
 This is the initial state that the trees are generated once you click the mouse.
