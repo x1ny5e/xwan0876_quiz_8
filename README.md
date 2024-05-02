@@ -24,6 +24,8 @@ I discovered some things worth learning from the above works:
 ## Part2:Coding Technique Exploration
 
 ### 1.1 Code Example
+link: https://openprocessing.org/sketch/873380
+
 ![code 1](readmeImages/code1.png)
 ![code 2](readmeImages/code2.png)
 ![code 3](readmeImages/code3.png)
