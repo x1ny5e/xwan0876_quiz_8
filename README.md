@@ -30,13 +30,14 @@ I discovered some things worth learning from the above works:
 
 ### 2.1 Code Example and Analysis
 link:https://editor.p5js.org/codingtrain/sketches/r9pxis9g-
-- How to create trees
+- **How to create trees**
   ![tree code1](readmeImages/tree1.png)
   ![tree code1](readmeImages/tree2.png)
-- How to create branches
+- **How to create branches**
   ![tree code1](readmeImages/branche.png)
-- How to create leaves
+- **How to create leaves**
   **this.pos = createVector(random(width), random(height - 100));** 
+  
   Create an attribute pos in the leaf object, and use the createVector() function to function to generate a two-dimensional vector at a random position to prevent the leaves from appearing on the bottom edge of the canvas.
 
   **this.reached = false;** 
