@@ -31,17 +31,20 @@ I discovered some things worth learning from the above works:
 ### 2.1 Code Example and Analysis
 link:https://editor.p5js.org/codingtrain/sketches/r9pxis9g-
 - **How to create trees**
+  The root branch object of the tree is created, and a loop is used to generate other branch objects of the tree until a branch object is close to the leaf object, indicating the end of the tree's growth.
+  
   ![tree code1](readmeImages/tree1.png)
   ![tree code1](readmeImages/tree2.png)
 - **How to create branches**
+  This code is the function constructor Branch used to create branch objects.
+
+  Properties include position (pos), parent branch object (parent), direction (dir), initial direction (origDir), counter (count), and length (len).
+
+  Methods include resetting the direction (reset), calculating the next branch (next), and displaying graphics (show).
+
   ![tree code1](readmeImages/branche.png)
 - **How to create leaves**
-  
-  **this.pos = createVector(random(width), random(height - 100));**
-  Create an attribute pos in the leaf object, and use the createVector() function to function to generate a two-dimensional vector at a random position to prevent the leaves from appearing on the bottom edge of the canvas.
-
-  **this.reached = false;** 
-  Create an attribute reached in the leaf object to indicate whether the leaf has reached the target position.
+  Use the createVector() function to generate a 2D vector at a random position to prevent the leaves from appearing at the bottom edge of the canvas. And create an attribute reached in the leaf object to indicate whether the leaf has reached the target position.
 
   ![tree code1](readmeImages/leave.png)
 
