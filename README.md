@@ -19,7 +19,7 @@ And this is the final display that the portrait will be seen when there are enou
 - **Interactive effect**    
   **Set the theme of the scene**, and the effect of sowing seeds through mouse events at the beginning, making the design more story-telling. Randomness and dynamic changes are then used to simulate the growth process of trees, which can attract the user's attention and increase the charm of the artwork.
 
-- **Elemental Connection** 
+- **Elemental Connection**
   Portrait Marielle spent her life fighting for women's rights and died of assassination. Although Marielle passed away, the tree symbolized new life. Fill the face of the portrait with leaves to achieve a texture effect of leaves, creating a more vivid and textured effect.
   
 ![click 1](readmeImages/click1.jpg)
