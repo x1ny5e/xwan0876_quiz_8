@@ -19,7 +19,7 @@ And this is the final display that the portrait will be seen when there are enou
 - **Interactive effect**    
   **Set the theme of the scene**, and the effect of sowing seeds through mouse events at the beginning, making the design more story-telling. Randomness and dynamic changes are then used to simulate the growth process of trees, which can attract the user's attention and increase the charm of the artwork.
 
-- **Elemental Connection**
+- **Elemental Connection**  
   Portrait Marielle spent her life fighting for women's rights and died of assassination. Although Marielle passed away, the tree symbolized new life. Fill the face of the portrait with leaves to achieve a texture effect of leaves, creating a more vivid and textured effect.
   
 ![click 1](readmeImages/click1.jpg)
@@ -29,15 +29,13 @@ And this is the final display that the portrait will be seen when there are enou
 
 ### 2.1 Code Example and Analysis
 link:https://editor.p5js.org/codingtrain/sketches/r9pxis9g-
-- **How to create trees**  
-     
+- **How to create trees**     
   The root branch of the tree is created, and a loop is used to generate other branch objects of the tree until a branch object is close to the leaf object, indicating the end of the tree's growth.
 
   ![tree code1](readmeImages/tree1.png)
   ![tree code1](readmeImages/tree2.png)
 
 - **How to create branches**  
-  
   Set properties include position(pos), parent branch (parent), direction(dir), initial direction(origDir), counter(count), and length(len).
   
   Methods include resetting the direction(reset), calculating the next branch(next), and displaying graphics(show).
