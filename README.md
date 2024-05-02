@@ -43,7 +43,7 @@ link:https://editor.p5js.org/codingtrain/sketches/r9pxis9g-
   ![tree code1](readmeImages/branche.png)
 
 - **How to create leaves** 
-  Use “createVector()” to generate a random position that prevents the leaves appearing at the bottom of the canvas. And create an attribute "reached" in the leaf object to indicate whether the leaf has reached the target position.
+    Use “createVector()” to generate a random position that prevents the leaves appearing at the bottom of the canvas. And create an attribute "reached" in the leaf object to indicate whether the leaf has reached the target position.
 
   ![tree code1](readmeImages/leave.png)
 
