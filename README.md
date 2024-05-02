@@ -16,7 +16,7 @@ And this is the final display that the portrait will be seen when there are enou
 ![the image of final display](readmeImages/final.jpg)
 
 ### 1.2 Insights
-- **Interactive effect** 
+- **Interactive effect**    
   **Set the theme of the scene**, and the effect of sowing seeds through mouse events at the beginning, making the design more story-telling. Randomness and dynamic changes are then used to simulate the growth process of trees, which can attract the user's attention and increase the charm of the artwork.
 
 - **Elemental Connection** 
