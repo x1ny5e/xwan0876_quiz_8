@@ -16,13 +16,12 @@ And this is the final display that the portrait will be seen when there are enou
 ![the image of final display](readmeImages/final.jpg)
 
 ### 1.2 Insights
-I discovered some things worth learning from the above works:
-- **Dynamic effect** 
-  Randomness and dynamic changes are used to simulate the growth process of trees. This dynamic effect can attract the user's attention and increase the interest and charm of the artwork. **In my major project, I can also consider setting a scene theme.**
-- **Portrait processing** 
-  The two elements of leaves and portraits are connected. Pixel information is used to fill in the color of the leaves, thereby achieving a map effect of the leaves, creating a more vivid and textured effect. **In subsequent designs, I will consider adding connections between two different elements instead of separating them.**
-- **Interaction design** 
-  At the beginning, the effect of sowing seeds is simulated through mouse events (click). With such a setting, the interactive scene will be stronger. **When giving interactive events, I can have a more story-like feel, such as adding scenes or music.**
+- **Interactive effect** 
+  **Set the theme of the scene**, and the effect of sowing seeds through mouse events at the beginning, making the design more story-telling. Randomness and dynamic changes are then used to simulate the growth process of trees, which can attract the user's attention and increase the charm of the artwork.
+
+- **Elemental Connection** 
+  Portrait Marielle spent her life fighting for women's rights and died of assassination. Although Marielle passed away, the tree symbolized new life. Fill the face of the portrait with leaves to achieve a texture effect of leaves, creating a more vivid and textured effect.
+  
 ![click 1](readmeImages/click1.jpg)
 ![click 1](readmeImages/click2.jpg)
 
@@ -32,7 +31,7 @@ I discovered some things worth learning from the above works:
 link:https://editor.p5js.org/codingtrain/sketches/r9pxis9g-
 - **How to create trees**
   The root branch object of the tree is created, and a loop is used to generate other branch objects of the tree until a branch object is close to the leaf object, indicating the end of the tree's growth.
-  
+
   ![tree code1](readmeImages/tree1.png)
   ![tree code1](readmeImages/tree2.png)
 - **How to create branches**
